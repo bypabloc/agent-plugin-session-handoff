@@ -15,7 +15,7 @@ sesiones reales y qué se aprendió en el camino. Es el changelog largo; el cort
 
 | Versión | Fecha | Commit | Resumen |
 | :--- | :--- | :--- | :--- |
-| [0.4.4](versiones/0.4.4.md) | 2026-11-20 | ver git log | Una línea `Status`, `Phase` o `Next step` repetida se nombra al escribir. |
+| [0.4.4](versiones/0.4.4.md) | 2026-11-20 | `f2fe629` | Una línea `Status`, `Phase` o `Next step` repetida se nombra al escribir. |
 | [0.4.3](versiones/0.4.3.md) | 2026-11-19 | `e90e03d` | La nota de `Phase:` cuenta para el máximo de 120 caracteres. |
 | [0.4.2](versiones/0.4.2.md) | 2026-11-19 | `5f404ef` | Los hashes pendientes sobreviven a `/reload-plugins` y `--resume`. |
 | [0.4.1](versiones/0.4.1.md) | 2026-11-19 | `24b7785` | Un commit en un Bash en segundo plano pide su hash. |
